@@ -1,6 +1,6 @@
 # ffmpeg-win
 
-Encode flac, mp3, opus and wav files on OSX with <a href="http://ffmpeg.zeranoe.com/builds/" target="_blank">ffmpeg version git-10012fa (2014-06-14) 64bit</a>
+Encode flac, mp3, opus and wav files on Windows with <a href="http://ffmpeg.zeranoe.com/builds/" target="_blank">ffmpeg version git-10012fa (2014-06-14) 64bit</a>
 
 No option, just best quality
 
