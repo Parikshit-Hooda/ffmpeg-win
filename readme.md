@@ -53,5 +53,5 @@ function done(err) {
   console.log('ok, done');
 }
 
-ffmpeg.opus('./source.mp3', './dest.opus', done);
+ffmpeg.opus('./source.mp3', './dest.oga', done);
 ```
